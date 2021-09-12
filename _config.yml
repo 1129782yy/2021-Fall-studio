@@ -14,7 +14,6 @@ show_excerpts: True # set to true to show excerpts on the homepage
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
   
   # generate social links in footer
   social_links:
@@ -54,7 +53,6 @@ minima:
 #header_pages:
 # - about.md
 
-# Build settings
 
 
 plugins:
