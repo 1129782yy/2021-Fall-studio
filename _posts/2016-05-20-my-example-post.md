@@ -2,11 +2,11 @@
 layout: post
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+I'll show you my design progress here.
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+My precedent :
+https://www.archdaily.com/967177/villa-backyard-touch-architect/611f679bb83a3a0164c8ab3f-villa-backyard-touch-architect-?next_project=no 
+https://www.archdaily.com/18262/box-house-alan-chu-and-cristiano-kato?ad_medium=widget&ad_name=more-from-office-article-show
+https://zhuanlan.zhihu.com/p/45880433
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+
