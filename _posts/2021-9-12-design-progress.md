@@ -8,7 +8,7 @@ My precedent :
 
 [precedent 1][2a21c033]
 
-  [2a21c033]:https://www.archdaily.com/967177/villa-backyard-touch-architect/611f679bb83a3a0164c8ab3f-villa-backyard-touch-architect-?next_project=no
+  [2a21c033]:https://www.archdaily.com/967177/villa-backyard-touch-architect?ad_medium=gallery
   
 [precedent 2][2a21c033]
 
