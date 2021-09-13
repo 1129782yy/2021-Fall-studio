@@ -3,9 +3,7 @@ author:
   name: Yun Yin
   email: yiny@kean.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a record of the architectural studio work from 2021 fall. The focus of the studio, which is intended to bel a complex program studio.
 
 show_excerpts: True # set to true to show excerpts on the homepage
 
