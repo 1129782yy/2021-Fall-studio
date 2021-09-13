@@ -7,8 +7,7 @@ I'll show you my design progress here.
 My research :
 
 precedent 1
-  
-<a href="http://zhuanlan.zhihu.com/p/45880433/">
+  <a href="http://zhuanlan.zhihu.com/p/45880433/">
          <img alt="Qries" src="http://raw.githubusercontent.com/1129782yy/2021-Fall-studio/master/assets/fromzhuanlan.zhihu.png"
          width=450">
       </a>  
