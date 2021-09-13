@@ -4,7 +4,7 @@ layout: post
 
 I'll show you my design progress here.
 
-My precedent :
+My research :
 
 [precedent 1][2a21c033]
 
