@@ -18,7 +18,7 @@ wood, metal, plastic, fiber
 A family on the verge of a new life.The wife is pregnant or the couple is actively trying to have a baby.
 A family that loves to party.
 
-All this means that the owners need a place to live in for the long term.Friends and children are special fetters,which giving people a strong sense of belonging and involvement.They are in the stage of building their "home"..
+All this means that the owners need a place to live in for the long term.Friends and children are special fetters,which giving people a strong sense of belonging and involvement.They are in the stage of building their "home".
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
